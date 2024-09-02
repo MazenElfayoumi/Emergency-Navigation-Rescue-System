@@ -32,6 +32,6 @@ This project is a Python-based rescue system designed to assist ships in distres
 
 ## Example Usage:
 ```python
-Enter the latitude of the ship in distress: 37.7749
-Enter the longitude of the ship in distress: -122.4194
+Enter the latitude of the ship in distress: 37.7412
+Enter the longitude of the ship in distress: -25.6756
 Nearest Port: Ponta Delgada
